@@ -1,5 +1,7 @@
 Organizing Intra & Inter-University Business Hackathons at Army IBA, Sylhet
 ==============================================================================
+## **A Comprehensive Documentation / Hackathon Manual**
+
 
 📌 Prepared by: Golam Mubasshir Rafi  
 
@@ -8,6 +10,10 @@ Organizing Intra & Inter-University Business Hackathons at Army IBA, Sylhet
 *   Contributor (Polyglots & Training), WordPress
 
 ================================================================================
+
+ **Version:** 1.0  
+ **Institution:** Army Institute of Business Administration (AIBA), Sylhet  
+ **Location:** Sylhet, Bangladesh
 
 1\. Introduction
 ----------------
