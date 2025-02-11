@@ -1,4 +1,4 @@
-📘 Organizing Intra & Inter-University Business Hackathons at Army IBA, Sylhet
+Organizing Intra & Inter-University Business Hackathons at Army IBA, Sylhet
 ==============================================================================
 
 📌 Prepared by: Golam Mubasshir Rafi  
